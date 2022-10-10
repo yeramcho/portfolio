@@ -1,7 +1,7 @@
 ## :pushpin: 지구 지키기 프로젝트 (ZZP)
 
 GitHub.  https://github.com/TeamZZP/ProjectZZP-Spring <br>
-Demo Link.  http://152.67.194.190:8080/zzp/
+Demo Link.  http://zzp.co.kr/zzp/
 ### 제로웨이스트 쇼핑몰&커뮤니티 (스프링 팀프로젝트)
 + 쇼핑몰 : 스토어에서 제로웨이스트 관련 상품을 구매
 + 커뮤니티 : 일상에서 실천 중인 제로웨이스트 생활 방식을 챌린지 사진 게시판에 인증
